@@ -42,10 +42,13 @@ To run:
 - Download the .exe file
 - Virus scan the file
 - Compare SHA1/MD5/SHA-256 hash
+- Start Bannerlord
 - Open cmd
 - voice1.exe
  - Your anti-virus might check it over, this is fine, once it confirms the program is safe, it will reassign control to the main CMD window
 - The program stores your voice commands in a local file in the same directory "out.log" (If you have a strong accent like myself you may need to adapt the source code to accomodate for your needs.)
+- click on Bannerlord window
+- Test by saying "1", "2" or "3" on the world map, you'll know if it is successful via speed changes (it's worth having the cmd on another screen so you can see what it is registering)
 
 
 Hash checksum:
